@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "9b03f3b9-9d7d-4bb6-a657-15fb02ddcebb",
+      "name": "surendra",
+      "email": "smovva@villanova.edu"
+    },
+    {
+      "id": "0a3fc74c-b2c3-4972-8656-b3e45f299143",
+      "name": "swathi",
+      "email": "skavur01@villanova.edu"
+    },
+    {
+      "id": "60bc3d34-6bc7-4ec7-87d2-e06bbf6e4d7f",
+      "name": "srinath",
+      "email": "saranyacse8156@gmail.com"
+    },
+    {
+      "id": "7a190451-e3d7-4d81-83f3-c2728df75bd4",
+      "name": "Saranya Kavuri",
+      "email": "srinath.kavuri@gmail.com"
+    }
+  ]
+}
